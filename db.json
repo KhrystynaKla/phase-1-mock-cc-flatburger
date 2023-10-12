@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Flatburger",
       "image": "./assets/food/flatburger.jpeg",
-      "number_in_cart": 0
+      "number_in_cart": 23
     },
     {
       "id": 2,
       "name": "Maple Bacon Burger",
       "image": "./assets/food/maple-bacon-burger.jpeg",
-      "number_in_cart": 0
+      "number_in_cart": 15
     },
     {
       "id": 3,
